@@ -1,3 +1,5 @@
+IMPORTANT NOTE! ALL DEVELOPMENT HAS BEEN CEASED IN THIS REPOSITORY FOLLOWING THE NAME CHANGE! PLEASE GO TO https://github.com/nvu99/ChiffreVigenereEncryption
+==========================
 Chiffre Vigenere Encryption
 ======================
 This is the first BETA version of this software. There are known bugs, however.
