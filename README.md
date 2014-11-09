@@ -6,4 +6,4 @@ You may highlight the key you want to remove and type in a new one instead.
 ______________________
 The algorithm of the encryption is in Encryption.cs.
 ______________________
-I just noticed that I confused the names Caesar Cipher and Viginere Chiffre. The name of this software will be changed very shortly.
+I just noticed that I confused the names Caesar Cipher and Chiffre Viginere. The name of this software will be changed very shortly.
